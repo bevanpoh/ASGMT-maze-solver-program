@@ -1,0 +1,8 @@
+cross.txt
+north_facing_fool.txt
+nearby_wall.txt
+- how should left-hand respond if there are no walls to start?
+
+p.txt
+pindmill.txt
+- what happens if it visits start node multiple times?
